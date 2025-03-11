@@ -47,3 +47,22 @@ Used a confusion matrix to visualize results, highlighting minimal false positiv
 
 Designed a simple Flask API for real-time fraud detection based on model predictions.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Contributors
+Devika Dileep - Healthcare Analyst
+Sandra Sajimon - Project Manager
+John Hanok - Data Scientist / ML Engineer
+
