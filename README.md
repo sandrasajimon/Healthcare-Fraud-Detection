@@ -17,3 +17,33 @@ Patient Details: Tot_Benes, GE65_Tot_Clms, GE65_Tot_30day_Fills, etc.
 
 These features provide insights into prescribing patterns, medication usage, and claim costs — crucial for detecting anomalies.
 
+# Workflow
+
+1. Data Cleaning & Preprocessing:
+
+Handled missing values, outliers, and ensured data consistency.
+Encoded categorical variables and normalized numeric values.
+
+2. Feature Engineering:
+
+Extracted meaningful insights such as average claim cost, total prescriptions per provider, etc.
+Used correlation analysis to select key features.
+
+3. Anomaly Detection with Isolation Forest:
+
+Applied Isolation Forest to flag suspicious patterns in prescription data.
+Evaluated precision-recall to assess model performance.
+
+4. Classification Model Optimization:
+
+Implemented a refined classification model with hyperparameter tuning.
+Achieved 88% precision and 93% recall for fraud detection.
+
+5. Model Evaluation:
+
+Used a confusion matrix to visualize results, highlighting minimal false positives and effective fraud detection.
+
+6. API Integration (Upcoming):
+
+Designed a simple Flask API for real-time fraud detection based on model predictions.
+
