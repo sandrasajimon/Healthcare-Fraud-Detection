@@ -1,4 +1,4 @@
-# Healthcare-Fraud-Detection
+# Healthcare-Fraud-Detection using AI
 a group of ai aspirants trying to look for fraudulent activities in a given prescription test data
 
 This project aims to build a robust machine learning model to detect fraudulent activities in healthcare claims using prescription data. The system leverages anomaly detection techniques such as Isolation Forest and advanced classification models to improve fraud identification accuracy.
