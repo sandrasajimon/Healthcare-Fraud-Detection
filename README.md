@@ -43,10 +43,11 @@ Achieved 88% precision and 93% recall for fraud detection.
 
 Used a confusion matrix to visualize results, highlighting minimal false positives and effective fraud detection.
 
-6. API Integration (Upcoming):
+6. Real-Time Prediction with Streamlit UI:
 
-Designed a simple Flask API for real-time fraud detection based on model predictions.
+Instead of using a separate Flask API, real-time fraud detection was implemented directly within the Streamlit application. The trained fraud detection model (saved as fraud_model.joblib) is loaded into the app using joblib.load(), and users can input new prescriber or transaction data through an interactive form in the Streamlit interface.
 
+Once the user submits the form, the input is preprocessed and passed into the model in real time. The app instantly displays the prediction — such as whether the input indicates fraudulent or non-fraudulent activity — making it interactive and user-friendly.
 
 
 
