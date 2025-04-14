@@ -52,18 +52,12 @@ Once the user submits the form, the input is preprocessed and passed into the mo
 # Conclusion
 The Prescriber Analyzer project demonstrates the potential of combining machine learning with interactive data applications to detect fraudulent prescriber behavior in real time. Built entirely with Streamlit, this application enables users to:
 
-Search and filter prescribers by state and National Provider Identifier (NPI)
-
-Visualize geographic trends in prescribing behavior across the U.S.
-
-Detect potential fraud using a pre-trained machine learning model integrated into the app
-
-Download filtered data for further analysis
-
+Search and filter prescribers by state and National Provider Identifier (NPI),
+Visualize geographic trends in prescribing behavior across the U.S.,
+Detect potential fraud using a pre-trained machine learning model integrated into the app,
+Download filtered data for further analysis,
 The project highlights how a user-friendly interface, powered by AI and real-time analytics, can assist healthcare administrators and investigators in monitoring Medicare Part D data effectively.
-
 With a clean, responsive UI and seamless integration of backend model predictions, this solution is a scalable prototype for real-world fraud detection in healthcare systems.
-
 "Turning data into decisions – one prediction at a time."
 
 
