@@ -52,15 +52,9 @@ Once the user submits the form, the input is preprocessed and passed into the mo
 
 
 
+# References
 
-
-
-
-
-
-
-
-
+Data is collected from https://data.cms.gov/provider-summary-by-type-of-service/medicare-part-d-prescribers/medicare-part-d-prescribers-by-provider-and-drug/data
 
 # Contributors
 Devika Dileep - Healthcare Analyst
